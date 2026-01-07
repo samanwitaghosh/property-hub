@@ -10,5 +10,18 @@
       "https://www.youtube.com/embed/rgV5trDd0Q4"
     ],
     "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub/main/pdfFiles/eco%20palace.pdf"]
+  },
+   {
+    "id": 2,
+    "name": "Merlin LakeScape",
+    "location": "22.564755414716018, 88.51093793744128",
+    "address": "Action Area 3, Newtown, India",
+    "images": [],
+    "videos": [],
+     "youtubeVideos": [
+      "https://www.merlinprojects.com/projects/lakescape/"
+    ],
+    "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub/main/pdfFiles/eco%20palace.pdf"]
   }
 ]
+
