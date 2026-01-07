@@ -9,6 +9,7 @@
      "youtubeVideos": [
       "https://www.youtube.com/embed/rgV5trDd0Q4"
     ],
+    "externalLinks": [],
     "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub/main/pdfFiles/eco%20palace.pdf"]
   },
    {
@@ -21,7 +22,10 @@
      "youtubeVideos": [
       "https://www.merlinprojects.com/projects/lakescape/"
     ],
-    "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub/main/pdfFiles/eco%20palace.pdf"]
+     "externalLinks": [
+  "https://www.merlinprojects.com/projects/lakescape/"
+],
+    "pdfs": []
   }
 ]
 
